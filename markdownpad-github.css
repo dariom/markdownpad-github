@@ -1,7 +1,6 @@
 /* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
-/* Author: Nicolas Hery - http://nicolashery.com */
-/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
-/* Source: https://github.com/nicolahery/markdownpad-github */
+/* Author: Dario Mratovich,  */
+/* Source: based on work by Nicolas Hery (http://nicolashery.com) and George Hahn (https://gist.github.com/GeorgeHahn/46d809262f3be67ea13e) */
 
 /* RESET
 =============================================================================*/
@@ -262,6 +261,7 @@ table th {
 }
 
 table th, table td {
+  font-size: 2em;
   border: 1px solid #ccc;
   padding: 6px 13px;
 }
