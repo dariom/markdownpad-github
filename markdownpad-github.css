@@ -168,7 +168,7 @@ dl dd>:last-child {
 =============================================================================*/
 
 pre, code, tt {
-  font-size: 0.95em;
+  font-size: 1em;
   font-family: Consolas, "Liberation Mono", Courier, monospace;
 }
 
@@ -192,8 +192,8 @@ pre>code {
 pre {
   background-color: #f8f8f8;
   border: 1px solid #ccc;
-  font-size: 2em;
-  line-height: 19px;
+  font-size: 1em;
+  line-height: 1em;
   overflow: auto;
   padding: 6px 10px;
   border-radius: 3px;
